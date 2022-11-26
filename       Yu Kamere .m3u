@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1,"Gradski trg Subotica
+https://5a4e346f7b586.streamlock.net:1935/uzivo/gradski-trg.stream/index.m3u8
+#EXTINF:-1,"Subotica-Palić
+https://5a4e346f7b586.streamlock.net:1935/uzivo/palic.stream/index.m3u8
+#EXTINF:-1,"JУРИJA ГАГАРИНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/gagarina.m3u8
+#EXTINF:-1,"АДА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:-1,"АУТОКОМАНДА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/autokomanda.m3u8
+#EXTINF:-1,"БОГОСЛОВИJA"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/bogoslovija.m3u8
+#EXTINF:-1,"БРАНКОВ МОСТ"- БЕОГРАД- камера
+https://streamer.devnet.rs/hls/brankov.m3u8
+#EXTINF:-1,"БУЛЕВАР ДЕСПОТА СТЕФАНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/despotastefana.m3u8
+#EXTINF:-1,"ВУКОВ СПОМЕНИК"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/vuk.m3u8
+#EXTINF:-1,"ГАЗЕЛА"- БЕОГРАД- камера
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:-1,"ГЕНЕКС"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/genex.m3u8
+#EXTINF:-1,"ЖЕЛЕЗНИЧКА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/zeleznicka.m3u8
+#EXTINF:-1,"МИХАJЛА ПУПИНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/pupina.m3u8
+#EXTINF:-1,"Мостарска петља"-Београд
+https://streamer.devnet.rs/hls/mostar.m3u8
+#EXTINF:-1,"ОПШТИНА НОВИ БЕОГРАД"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/opstinanbg.m3u8
+#EXTINF:-1,"ПАЧЕВАЧКИ МОСТ"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:-1,"СЛАВИJА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/slavija.m3u8
+#EXTINF:-1,"ТАКОВСКА"-БЕОГРАД"-камера
+https://streamer.devnet.rs/hls/takovska.m3u8
+#EXTINF:-1,"ТРГ РЕПУБЛИКЕ"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:-1,"Трг Николе Пашића"-Београд-камера
+https://streamer.devnet.rs/hls/trgnikole.m3u8
+#EXTINF:-1,САРАJЕВО"ДОЛАЦ-МАЛТА"-камера
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1,ГОРАЖДЕ-камерa
+https://webtvstream.bhtelecom.ba/gorazde_cam.m3u8
+#EXTINF:-1,Jupok Rožaje
+https://edge1-eu-west.picarto.tv/stream/golive+jupokradio.mp4
+#EXTINF:-1,Moja Tv-Panonska jezera
+https://webtvstream.bhtelecom.ba/panonska_cam.m3u8
+#EXTINF:-1,Moja Tv-Tuzla
+https://webtvstream.bhtelecom.ba/tuzla_cam.m3u8
+#EXTINF:-1,Moja Tv-Smetovi_Zenica
+https://webtvstream.bhtelecom.ba/smetovi_cam.m3u8
+#EXTINF:-1,Moja Tv-Bihać
+https://webtvstream.bhtelecom.ba/bihac_cam.m3u8
+#EXTINF:-1,Moja Tv-Neum
+https://webtvstream.bhtelecom.ba/neum.m3u8
+#EXTINF:-1,Moja tv-Konjic 2
+https://webtvstream.bhtelecom.ba/konjic_cam2.m3u8
+#EXTINF:-1,Moja Tv-Konjic
+https://webtvstream.bhtelecom.ba/konjic_cam.m3u8
+#EXTINF:-1,Moja Tv-Sokolac
+https://webtvstream.bhtelecom.ba/stolac_cam.m3u8
+#EXTINF:-1,Moja Tv-Mostar_Panorama
+https://webtvstream.bhtelecom.ba/mostar_cam_pan.m3u8
+#EXTINF:-1,Moja Tv-Mostar_cam
+https://webtvstream.bhtelecom.ba/mostar_cam.m3u8
+#EXTINF:-1,Moja Tv-Kakanj
+https://webtvstream.bhtelecom.ba/kakanj_cam.m3u8
+#EXTINF:-1,Moja Tv-Vlašić
+https://webtvstream.bhtelecom.ba/vlasic.m3u8
+#EXTINF:-1,Moja Tv-Travnik
+https://webtvstream.bhtelecom.ba/travnik_cam.m3u8
+#EXTINF:-1,Moja Tv-Trg BiH
+https://webtvstream.bhtelecom.ba/trg_bih_cam.m3u8
+#EXTINF:-1,Moja Tv-Sarajevo
+https://webtvstream.bhtelecom.ba/sarajevo_cam.m3u8
+#EXTINF:-1,Moja Tv-Mojmilo_Sarajevo
+https://webtvstream.bhtelecom.ba/mojmilo_cam.m3u8
+#EXTINF:-1,Moja tv-Jahorina
+https://webtvstream.bhtelecom.ba/jahorina.m3u8
+#EXTINF:-1,Moja Tv-Igman
+https://webtvstream.bhtelecom.ba/camigman.m3u8
+#EXTINF:-1,Moja Tv-Bjelasica
+https://webtvstream.bhtelecom.ba/bjelasnica.m3u8
+#EXTINF:-1,Gradina GP E80 ulaz u Srbiju iz Bugarske
+http%3a//kamere.amss.org.rs/gradina1/gradina1.m3u8
+#EXTINF:-1,Gradina GP E80 izlaz iz Srbije ka Bugarskoj
+http%3a//kamere.amss.org.rs/gradina2/gradina2.m3u8
+#EXTINF:-1,Horgoš GP E75 Ulaz u Srbiju iz Mađarske
+http%3a//kamere.amss.org.rs/horgos1/horgos1.m3u8
+#EXTINF:-1,Preševo GP E75 ulaz u Srbiju iz Makedonije
+http%3a//kamere.amss.org.rs/presevo1/presevo1.m3u8
+#EXTINF:-1,Split-Riva
+http%3a//cdn-004.whatsupcams.com/hls/hr_split04.m3u8
+#EXTINF:-1,Horgoš GP E75 Izlaz iz  Srbije ka Mađarskoj
+http%3a//kamere.amss.org.rs/horgos2/horgos2.m3u8
+#EXTINF:-1,Batrovci E70 ulaz u Srbiju iz Hrvatske
+http%3a//kamere.amss.org.rs/batrovci1/batrovci1.m3u8
+#EXTINF:-1,Batrovci E70 izlaz iz Srbije za Hrvatsku
+http%3a//kamere.amss.org.rs/batrovci2/batrovci2.m3u8
+#EXTINF:-1,Split-Bačvice
+http%3a//cdn-001.whatsupcams.com/hls/hr_splitbacvice01.m3u8
+#EXTINF:-1,Split all-round view
+http%3a//cdn-004.whatsupcams.com/hls/hr_split06.m3u8
+#EXTINF:-1,Split-Matejuška
+http%3a//cdn-003.whatsupcams.com/hls/hr_split.m3u8
+#EXTINF:-1,Bledsko jezero-panorama
+http%3a//cdn-001.whatsupcams.com/hls/si_bled1.m3u8
+#EXTINF:-1,Bohinjsko jezero i Triglav pogled sa skijališta Vogel 64
+http%3a//cdn-006.whatsupcams.com/hls/si_vogel4.m3u8
+#EXTINF:-1,Bovec
+http%3a//cdn-003.whatsupcams.com/hls/si_bovec.m3u8
+#EXTINF:-1,Brda Hotel San Martin
+http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8
+#EXTINF:-1,Brežice Hidroelektrana
+http%3a//cdn-005.whatsupcams.com/hls/si_hse4_2.m3u8
+#EXTINF:-1,Brežice pogled sa Sv. Vida
+http%3a//cdn-006.whatsupcams.com/hls/si_brezice1.m3u8
+#EXTINF:-1,Celje bazen
+http%3a//cdn-003.whatsupcams.com/hls/si_celje01.m3u8
+#EXTINF:-1,Celje Koča
+http%3a//cdn-004.whatsupcams.com/hls/si_celjskoca02.m3u8
+#EXTINF:-1,Cerkno Kmetija Na Lanišah
+http%3a//cdn-005.whatsupcams.com/hls/si_cerkno01.m3u8
+#EXTINF:-1,Črni Kal Viadukt
+http%3a//cdn-004.whatsupcams.com/hls/si_crnikal01.m3u8
+#EXTINF:-1,Dovje web kamera sa pogledom na Triglav
+http%3a//cdn-004.whatsupcams.com/hls/si_mojstrana01.m3u8
+#EXTINF:-1,Dražgoše Brunarica
+http%3a//cdn-005.whatsupcams.com/hls/si_drazgose01.m3u8
+#EXTINF:-1,Gorica Šempeter
+http%3a//cdn-005.whatsupcams.com/hls/si_sempeter01.m3u8
+#EXTINF:-1,Idrija
+http%3a//cdn-006.whatsupcams.com/hls/si_idrija02.m3u8
+#EXTINF:-1,Idrija trg Jurij Tavcar
+http%3a//cdn-004.whatsupcams.com/hls/si_idrija01.m3u8
+#EXTINF:-1,Izola pogled sa restorana “Svetilnik”
+http%3a//cdn-002.whatsupcams.com/hls/si_izola2.m3u8
+#EXTINF:-1,Izola plaža San Simon
+http%3a//cdn-004.whatsupcams.com/hls/si_izola3.m3u8
+#EXTINF:-1,Jesenice Struška
+http%3a//cdn-006.whatsupcams.com/hls/si_struska01.m3u8
+#EXTINF:-1,Kamnik Velika Planina
+http%3a//cdn-002.whatsupcams.com/hls/si_velikaplanina02.m3u8
+#EXTINF:-1,Kanin Bovec
+http%3a//cdn-004.whatsupcams.com/hls/si_kanin02.m3u8
+#EXTINF:-1,Kanin Prestreljenik
+http%3a//cdn-006.whatsupcams.com/hls/si_kanin01.m3u8
+#EXTINF:-1,Kobarid
+http%3a//cdn-003.whatsupcams.com/hls/si_kobarid02.m3u8
+#EXTINF:-1,Kobarid Kobariški stol
+http%3a//cdn-004.whatsupcams.com/hls/si_kobarid01.m3u8
+#EXTINF:-1,Kočevje jezero
+http%3a//cdn-006.whatsupcams.com/hls/si_kocevje02.m3u8
+#EXTINF:-1,Koper Panoramski pogled na grad i luku
+http%3a//cdn-006.whatsupcams.com/hls/si_koper02.m3u8
+#EXTINF:-1,Kranjska Gora Plaža
+http%3a//cdn-004.whatsupcams.com/hls/si_kranjskagora3.m3u8
+#EXTINF:-1,Maribor Pisker
+http%3a//cdn-002.whatsupcams.com/hls/si_mbpohorje08.m3u8
+#EXTINF:-1,Maribor Pohorje
+http%3a//cdn-002.whatsupcams.com/hls/si_mbpohorje02.m3u8
+#EXTINF:-1,Maribor Pohorje SKI Arena
+http%3a//cdn-001.whatsupcams.com/hls/si_mbpohorje09.m3u8
+#EXTINF:-1,Maribor Pohorje Bellevue
+http%3a//cdn-004.whatsupcams.com/hls/si_mbpohorje10.m3u8
+#EXTINF:-1,Medvode
+http%3a//cdn-004.whatsupcams.com/hls/si_medvode01.m3u8
+#EXTINF:-1,Most na Soči
+http%3a//cdn-005.whatsupcams.com/hls/si_mostnasoci03.m3u8
+#EXTINF:-1,Nova Gorica Solkan
+http%3a//cdn-002.whatsupcams.com/hls/si_solkan02.m3u8
+#EXTINF:-1,Nova Gorica Trg Edvarda Kardelja
+http%3a//cdn-005.whatsupcams.com/hls/si_ngorica03.m3u8
+#EXTINF:-1,Nova Gorica Solkan
+http%3a//cdn-001.whatsupcams.com/hls/si_solkan01.m3u8
+#EXTINF:-1,Piran Hotel Barbara
+http%3a//cdn-003.whatsupcams.com/hls/si_fiesa01.m3u8
+#EXTINF:-1,Piran park Strunjan
+http%3a//cdn-003.whatsupcams.com/hls/si_strunjan01.m3u8
+#EXTINF:-1,Piran Punta i Mandrač
+http%3a//cdn-006.whatsupcams.com/hls/si_piran04.m3u8
+#EXTINF:-1,Planja
+http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8
+#EXTINF:-1,Pokljuka Rudno Polje
+http%3a//cdn-005.whatsupcams.com/hls/si_pokljuka1.m3u8
+#EXTINF:-1,Portorož plaža Kavarna Karamela
+http%3a//cdn-003.whatsupcams.com/hls/si_portoroz05.m3u8
+#EXTINF:-1,Portorož pogled sa Ville Bellevue
+http%3a//cdn-004.whatsupcams.com/hls/si_portoroz08.m3u8
+#EXTINF:-1,Portorož Panorama i solana
+http%3a//cdn-005.whatsupcams.com/hls/si_solinesecovlje.m3u8
+#EXTINF:-1,Portorož pogled na marinu i teniške terene
+http%3a//cdn-006.whatsupcams.com/hls/si_portoroz09.m3u8
+#EXTINF:-1,Portorož Zračna luka
+http%3a//cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8
+#EXTINF:-1,Postojna Predjamski dvorac
+http%3a//cdn-002.whatsupcams.com/hls/si_predjama01.m3u8
+#EXTINF:-1,Rogla Ostruščica
+http%3a//cdn-005.whatsupcams.com/hls/si_rogla10.m3u8
+#EXTINF:-1,Soča Solkan Kayak Center
+http%3a//cdn-005.whatsupcams.com/hls/si_solkankajak.m3u8
+#EXTINF:-1,Soriška Planina Vrh Lajnar Sorica Skijalište
+http%3a//cdn-005.whatsupcams.com/hls/si_sorica02.m3u8
+#EXTINF:-1,Šmartno Brda Hotel San Martin
+http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8
+#EXTINF:-1,Štanjel Ferrarijev vrt
+http%3a//cdn-005.whatsupcams.com/hls/si_stanjel01.m3u8
+#EXTINF:-1,Trenta Pogled na Šplevt Pihavec i Prisojnik
+http%3a//cdn-002.whatsupcams.com/hls/si_trenta01.m3u8
+#EXTINF:-1,Višnjevik
+http%3a//cdn-005.whatsupcams.com/hls/si_brda02.m3u8
+#EXTINF:-1,Vogel panorama sa Orlove glave prema Triglavu
+http%3a//cdn-003.whatsupcams.com/hls/si_vogel3.m3u8
+#EXTINF:-1,Vogel snežni park
+http%3a//cdn-004.whatsupcams.com/hls/si_vogel2.m3u8
+#EXTINF:-1,Makedonija-Petrovec 2
+http://streaming1.neotel.net.mk:8080/hls/petrovec_2.m3u8
+#EXTINF:-1,Makedonija-NS Tetovo TE-GO
+http://streaming1.neotel.net.mk:8080/hls/tetovo_1.m3u8
+#EXTINF:-1,Makedonija-NS Tetovo GV-TE
+http://streaming1.neotel.net.mk:8080/hls/tetovo_2.m3u8
+#EXTINF:-1,Makedonija-Gevgelija 1
+http://streaming1.neotel.net.mk:8080/hls/gevgelija_1.m3u8
+#EXTINF:-1,Makedonija-Gevgelija 2
+http://streaming1.neotel.net.mk:8080/hls/gevgelija_2.m3u8
+#EXTINF:-1,Makedonija-GP Deve Bair MK-BG
+http://streaming1.neotel.net.mk:8080/hls/deve_bair.m3u8
+#EXTINF:-1,Makedonija-GP Bogorodica MK-GR
+http://streaming1.neotel.net.mk:8080/hls/bogorodica.m3u8
+#EXTINF:-1,Makedonija- GP Medžitlija MK-GR
+http://streaming1.neotel.net.mk:8080/hls/medzitlija.m3u8
+#EXTINF:-1,Makedonija-NS Gostivar Tetovo-Gostivar
+http://streaming1.neotel.net.mk:8080/hls/gostivar_1.m3u8
+#EXTINF:-1,Makedonija-NS Gostivar-Te
+http://streaming1.neotel.net.mk:8080/hls/gostivar_2.m3u8
+#EXTINF:-1,Makedonija-NS Zelino Tetovo-Skopje
+http://streaming1.neotel.net.mk:8080/hls/zelino_2.m3u8
+#EXTINF:-1,Kopaonik-Gala sport
+https://srv1.adriatelekom.com/KameraGalaSportKopaonik/tracks-v1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wveHRpbS50dlwvYXBpXC9sb2dpbiIsImlhdCI6MTYxOTY4ODEwOSwibmJmIjoxNjE5Njg4MTA5LCJqdGkiOiI5a1M5TmZkaW9NTVk2QzRnIiwic3ViIjoiQVJFTkFCQVRPIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pZCI6NDY2NiwiaXAiOiIyYTAyOjkwODoxYTE6NDgwMDoyNWJhOjdjNGU6ODU1NzpjYjViIiwidXNlcl9pZCI6OTA4OH0.iw20xYRNyOs8Y1onjxpzq4wUXoZZEacEP6QaVQpiRTQ
+#EXTINF:-1,Subotica"Korzo"
+https://srv1.adriatelekom.com/KameraKorzoSubotica/tracks-v1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wveHRpbS50dlwvYXBpXC9sb2dpbiIsImlhdCI6MTYxOTY4ODEwOSwibmJmIjoxNjE5Njg4MTA5LCJqdGkiOiI5a1M5TmZkaW9NTVk2QzRnIiwic3ViIjoiQVJFTkFCQVRPIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pZCI6NDY2NiwiaXAiOiIyYTAyOjkwODoxYTE6NDgwMDoyNWJhOjdjNGU6ODU1NzpjYjViIiwidXNlcl9pZCI6OTA4OH0.iw20xYRNyOs8Y1onjxpzq4wUXoZZEacEP6QaVQpiRTQ
+#EXTINF:-1,Zrenjanin
+http://109.94.224.254/video1.mjpg
+#EXTINF:-1,Zrenjanin 2
+http://109.94.224.250/video1.mjpg
+#EXTINF:-1,Zrenjanin 3
+http://109.94.224.253/video1.mjpg
